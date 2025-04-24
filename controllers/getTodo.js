@@ -1,5 +1,5 @@
 //import th model
-const Todo = require("../models/Todo");
+const Todo = require("../models/ToDo");
 
 //define route handler
 
